@@ -1,5 +1,5 @@
 from ntlk.corpus import stopwords
-from Collections import counter
+from collections import counter
 
 
 text = """The cat is in the box. The cat likes the box.                   The box is over the cat."""
